@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\CSU\\program\\Python\\Practice\\Vs2019\\my_mnist\\my_mnist/model.ckpt"
+all_model_checkpoint_paths: "D:\\CSU\\program\\Python\\Practice\\Vs2019\\my_mnist\\my_mnist/model.ckpt"
