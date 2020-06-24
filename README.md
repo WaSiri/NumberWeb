@@ -1,6 +1,6 @@
 # NumberWeb
-##use mnist model and flask to set up a web that could predict number
-###项目说明
+## use mnist model and flask to set up a web that could predict number
+### 项目说明
 * Flask:项目文件
 *     Models：内含四个文件，为tensorflow基于MNIST数据集训练所得模型文件
 *     Static：内含两个文件，为网页index界面的css与js文件
@@ -9,7 +9,8 @@
 *     test.py：训练模型的启动文件，输入图片，返回识别结果
 *     util.py：处理json文件转为img
 * img:测试图片
-###使用说明
+
+### 使用说明
 * 环境配置
 * 第一次使用时右键app.py文件，点击Run ” Flask(app.py)” 
  ，之后使用该项目便可以简单使用右上角的运行
